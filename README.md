@@ -1,11 +1,11 @@
-# Activate GitHub Copilot using Nodejs and .NET
+****# Activate GitHub Copilot using Nodejs and .NET
 
 Demo project for running labs to evaluate Copilot viability
 
 - [Goal](#goal)
 - [Pre-requisites](#pre-requisites)
 - [Work with Github Codespaces](#work-with-github-codespaces)
-- [Work locally](#work-locally)
+  - [Work locally](#work-locally)
 - [Instructions](#instructions)
 
 ## Goal
