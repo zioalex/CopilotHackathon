@@ -6,7 +6,7 @@ Open only the relevant files.
 
 # Github guy -
 coplilot chat - When done?
-copilo for PR for ADO
+copilot for PR for ADO - GH
 copilot for docs - Which integration are available ETA
 
 Data is destroyed streight away after the code has been generated.
