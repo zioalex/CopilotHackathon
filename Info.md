@@ -1,3 +1,5 @@
+https://www.microsoft.com/en-us/dev-community/Event/Register?eventId=GitHubCopilotHackathonSwitzerland-June20th2023_TkUYX_Ms_SmQ&ocid=aid3054457
+
 # Romano Roth
 
 Name the files with the goal you want to achieve.
